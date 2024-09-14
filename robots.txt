@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://proule.github.io/gFi/sitemap.gFi.gz
